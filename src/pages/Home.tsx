@@ -5,7 +5,7 @@ const Home: React.FC = () => {
   return (
     <>
       <h2 className="min-h-screen bg-gray-100 flex items-center justify-center">
-        홈 화면이에요!
+        홈 화면이에요! 변경1
       </h2>
       <p>리액트와 타입스크립트를 배워봐요 🎉</p>
       <Link to="/todo_list">
