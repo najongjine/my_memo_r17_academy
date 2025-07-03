@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://najongjine.github.io/my_memo_r17",
+  "homepage": "https://najongjine.github.io/my_memo_r17_academy",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
