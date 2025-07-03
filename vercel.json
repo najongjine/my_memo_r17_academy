@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "dest": "http://itgmemo.duckdns.org:3001/api/$1"
+      "destination": "http://itgmemo.duckdns.org:3001/api/$1"
     },
     {
       "source": "/(.*)",
